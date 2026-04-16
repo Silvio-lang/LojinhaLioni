@@ -1,11 +1,11 @@
 [
 {
-  "id": "001",
+  "id": "0001",
   "categoria": "Vestuário & Conforto",
   "nome": "Conjunto Térmico Flanelado Plus Size - Calça e Blusa",
   "descricao": "O aliado perfeito para os dias frios em Florianópolis! Este conjunto flanelado une o máximo de conforto com um ajuste impecável no tamanho Plus Size. Ideal para usar por baixo da roupa ou para relaxar em casa com muito aconchego.",
   "keywords": ["inverno", "roupa térmica", "plus size", "conforto", "flanelado", "frio"],
-  "imagem": "imagens/conjunto_termico_plus.jpg",
+  "imagem": "imagens/0001_conjunto_termico_plus.jpg",
   "links": {
     "amazon": "",
     "mercado": "",
@@ -13,12 +13,12 @@
   }
 },
 {
-    "id": "002",
+    "id": "0002",
     "categoria": "Cozinha & Servir",
     "nome": "Conjunto de Taças de Vidro para Sobremesa",
     "descricao": "Dê um toque de elegância às suas recepções! Este conjunto de taças em vidro trabalhado é ideal para servir mousses, pavês ou aquele gelado especial. Um item clássico que valoriza a apresentação da mesa e encanta os convidados.",
     "keywords": ["sobremesa", "taças", "vidro", "cozinha", "servir", "receber bem"],
-    "imagem": "imagens/tacas_sobremesa_vidro.jpg",
+    "imagem": "imagens/0002_tacas_sobremesa_vidro.jpg",
     "links": {
       "amazon": "",
       "mercado": "",
@@ -26,12 +26,12 @@
     }
   },
   {
-    "id": "003",
+    "id": "0003",
     "categoria": "Cozinha Prática",
     "nome": "Balança Digital de Precisão para Cozinha",
     "descricao": "A precisão que faltava nas suas receitas! Essencial para quem busca resultados perfeitos na culinária ou precisa de controle exato nas dietas. Compacta, fácil de limpar e com visor digital de alta leitura.",
     "keywords": ["balança digital", "cozinha", "dieta", "precisão", "receitas", "utensílios"],
-    "imagem": "imagens/balanca_digital_cozinha.jpg",
+    "imagem": "imagens/0003_Balançadigital.jpg",
     "links": {
       "amazon": "https://amzn.to/4tiloSG",
       "mercado": "https://meli.la/1qkkoWz",
@@ -39,12 +39,12 @@
     }
   },
 {
-    "id": "004",
+    "id": "0004",
     "categoria": "Limpeza & Casa",
     "nome": "Multiuso Flotador Pronto Uso Start 5L",
     "descricao": "A solução definitiva para limpezas pesadas com o melhor custo-benefício! Esse flotador de 5 litros é ideal para remover gorduras e sujeiras difíceis de diversas superfícies sem esforço. É o aliado perfeito para manter a casa impecável gastando pouco.",
     "keywords": ["limpeza", "flotador", "multiuso", "faxina", "economia","desengordurante"],
-    "imagem": "imagens/flotador_multiuso_start_5l.jpg",
+    "imagem": "imagens/0004_flotador_multiuso_start_5l.jpg",
     "links": {
       "amazon": "",
       "mercado": "",
@@ -52,22 +52,22 @@
     }
   },
 {
-  "id": "005",
+  "id": "0005",
   "categoria": "Alimentação Saudável",
   "nome": "Castanha do Pará Inteira Premium - Safra Nova",
   "descricao": "Fonte natural de proteínas e gorduras boas. Castanhas inteiras e selecionadas, perfeitas para um lanche saudável e nutritivo.",
-  "imagem": "imagens/castanha_para.jpg",
+  "imagem": "imagens/0005_castanha_para.jpg",
   "keywords": ["castanha", "pará", "brasil", "premium", "natural", "proteína", "saudável", "lanche", "comida", "fitness"],
   "links": {
     "shopee": "https://s.shopee.com.br/9Ke8wOASmu?share_channel_code=1"
   }
 },
 {
-  "id": "006",
+  "id": "0006",
   "categoria": "Moda & Inverno",
   "nome": "Conjunto Segunda Pele Térmica - Proteção UV50+",
   "descricao": "Proteção térmica flanelada para frio intenso. Material unissex com proteção solar UV50+, ideal para usar sob a roupa ou para atividades ao ar livre.",
-  "imagem": "imagens/segunda_pele.jpg",
+  "imagem": "imagens/0006_segunda_pele.jpg",
   "keywords": ["frio", "inverno", "térmica", "segunda pele", "roupa", "unissex", "uv50", "preto", "blusa", "calça", "viagem"],
   "links": {
     "shopee": "https://s.shopee.com.br/8KlbkjeYZb?share_channel_code=1"
