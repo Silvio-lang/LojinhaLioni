@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="manifest" href="manifest.json">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://silvio-lang.github.io/LojinhaLioni/">
+    <meta property="og:title" content="Achados da Lioni - Ofertas Incríveis">
+    <meta property="og:description" content="Confira as melhores seleções da Amazon, Shopee e Mercado Livre!">
+    <meta property="og:image" content="https://silvio-lang.github.io/LojinhaLioni/imagens/icone-512.png">
+    <meta property="og:image:width" content="512">
+    <meta property="og:image:height" content="512">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achados da Lioni</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f5f5f5; margin: 0; padding: 10px; }
+        .header { display: flex; justify-content: center; margin-bottom: 15px; }
+        .header img { max-width: 400px; width: 100%; border-radius: 10px; }
+        .busca-container { max-width: 400px; margin: 10px auto 20px; text-align: center; }
+        #campoBusca { width: 90%; padding: 12px; border-radius: 25px; border: 1px solid #ddd; font-size: 16px; outline: none; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .container { display: flex; flex-direction: column; gap: 15px; }
+        .card { background: white; padding: 15px; border-radius: 10px; max-width: 400px; margin: auto; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .card img { width: 100%; border-radius: 8px; }
+        .badge { background: #e0e0e0; font-size: 12px; padding: 3px 8px; border-radius: 12px; color: #555; }
+        .amazon { background: #ff9900; } .mercado { background: #3483fa; } .shopee { background: #ee4d2d; }
+.botao { 
+        display: block; 
+        margin: 8px 0; 
+        padding: 12px; 
+        text-align: center; 
+        color: white; 
+        text-decoration: none; 
+        border-radius: 8px; 
+        font-weight: bold; 
+        transition: opacity 0.2s;
+    }
+
+    /* Amazon: Café com leite caramelo (#FF9900 original, mas puxado para o tom que você descreveu) */
+    .amazon { 
+        background: #D4A373; /* Tom caramelo sofisticado */
+        color: #FFFFFF;
+    }
+
+    /* Shopee: Laranja avermelhado característico */
+    .shopee { 
+        background: #EE4D2D; 
+        color: #FFFFFF;
+    }
+
+    /* Mercado Livre: Amarelo vivo com letras brancas (e sombra para leitura) */
+    .mercado { 
+        background: #EED500; 
+        color: #FFFFFF; 
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.3); /* Essencial para contraste no amarelo */
+    }
+
+    .botao:active { opacity: 0.8; } /* Efeito de clique */
+</style>
+</head>
+<body>
+
+<div class="header"><img src="imagens/face.jpg" alt="Cabeçalho"></div>
+
+<div class="busca-container">
+    <input type="text" id="campoBusca" placeholder="O que você está procurando? 🔍">
+</div>
+
+<div id="produtos" class="container"></div>
+
+<script>
+let todosProdutos = [];
+
+fetch('produtos.json')
+  .then(res => res.json())
+  .then(data => {
+    todosProdutos = data;
+    exibirProdutos(todosProdutos);
+  });
+
+function exibirProdutos(lista) {
+    const container = document.getElementById('produtos');
+    container.innerHTML = '';
+    
+    lista.forEach(p => {
+        const { links } = p;
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+            <img src="${p.imagem}" loading="lazy">
+            <p><span class="badge">${p.categoria}</span></p>
+            <h3>${p.nome}</h3>
+            <p>${p.descricao}</p>
+            ${links.shopee ? `<a class="botao shopee" href="${links.shopee}" target="_blank">Ver na Shopee</a>` : ''}
+            ${links.amazon ? `<a class="botao amazon" href="${links.amazon}" target="_blank">Ver na Amazon</a>` : ''}
+            ${links.mercado ? `<a class="botao mercado" href="${links.mercado}" target="_blank">Ver no Mercado Livre</a>` : ''}
+        `;
+        container.appendChild(card);
+    });
+}
+
+document.getElementById('campoBusca').addEventListener('input', (e) => {
+    const termo = e.target.value.toLowerCase();
+    const filtrados = todosProdutos.filter(p => 
+        p.nome.toLowerCase().includes(termo) || 
+        p.keywords.some(k => k.toLowerCase().includes(termo)) ||
+        p.categoria.toLowerCase().includes(termo)
+    );
+    exibirProdutos(filtrados);
+});
+</script>
+</body>
+</html>
