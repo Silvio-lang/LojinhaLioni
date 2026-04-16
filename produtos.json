@@ -50,5 +50,27 @@
       "mercado": "",
       "shopee": "https://s.shopee.com.br/9AKik3cAPm?share_channel_code=1"
     }
+  },
+{
+  "id": "005",
+  "categoria": "Alimentação Saudável",
+  "nome": "Castanha do Pará Inteira Premium - Safra Nova",
+  "descricao": "Fonte natural de proteínas e gorduras boas. Castanhas inteiras e selecionadas, perfeitas para um lanche saudável e nutritivo.",
+  "imagem": "imagens/castanha_para.jpg",
+  "keywords": ["castanha", "pará", "brasil", "premium", "natural", "proteína", "saudável", "lanche", "comida", "fitness"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/9Ke8wOASmu?share_channel_code=1"
   }
+},
+{
+  "id": "006",
+  "categoria": "Moda & Inverno",
+  "nome": "Conjunto Segunda Pele Térmica - Proteção UV50+",
+  "descricao": "Proteção térmica flanelada para frio intenso. Material unissex com proteção solar UV50+, ideal para usar sob a roupa ou para atividades ao ar livre.",
+  "imagem": "imagens/segunda_pele.jpg",
+  "keywords": ["frio", "inverno", "térmica", "segunda pele", "roupa", "unissex", "uv50", "preto", "blusa", "calça", "viagem"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/8KlbkjeYZb?share_channel_code=1"
+  }
+}
 ]
