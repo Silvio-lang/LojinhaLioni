@@ -160,5 +160,16 @@
   "links": {
     "shopee": "https://s.shopee.com.br/4frtZKlHXS?share_channel_code=1"
   }
+},
+{
+  "id": "0015",
+  "categoria": "Beleza & Cuidados Pessoais",
+  "nome": "Máquina de Cortar Cabelo Profissional Dragão",
+  "descricao": "Máquina de acabamento e corte profissional com design vintage de dragão. Sem fio, com bateria recarregável, ideal para barbeiros e uso doméstico com alta precisão.",
+  "imagem": "imagens/0015_banner_shopee.jpg",
+  "keywords": ["barbeiro", "máquina de cortar cabelo", "dragão", "profissional", "recarregável", "beleza", "masculino", "acabamento", "vintage", "corte"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/3qJFEH9yc9?share_channel_code=1"
+  }
 }
 ]
