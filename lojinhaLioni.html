@@ -57,6 +57,25 @@
     }
 
     .botao:active { opacity: 0.8; } /* Efeito de clique */
+
+.links-gerais { 
+    display: flex; 
+    justify-content: center; 
+    gap: 10px; 
+    margin-bottom: 20px; 
+    flex-wrap: wrap; 
+}
+.pill { 
+    font-size: 13px; 
+    padding: 8px 15px; 
+    border-radius: 20px; 
+    text-decoration: none; 
+    font-weight: bold; 
+    border: 1px solid #ddd;
+    color: #555;
+    background: white;
+}
+.pill:hover { background: #f0f0f0; }
 </style>
 </head>
 <body>
@@ -92,9 +111,9 @@ function exibirProdutos(lista) {
             <p><span class="badge">${p.categoria}</span></p>
             <h3>${p.nome}</h3>
             <p>${p.descricao}</p>
-            ${links.shopee ? `<a class="botao shopee" href="${links.shopee}" target="_blank">Ver na Shopee</a>` : ''}
-            ${links.amazon ? `<a class="botao amazon" href="${links.amazon}" target="_blank">Ver na Amazon</a>` : ''}
-            ${links.mercado ? `<a class="botao mercado" href="${links.mercado}" target="_blank">Ver no Mercado Livre</a>` : ''}
+            ${links.shopee ? `<a class="botao shopee" href="${links.shopee}" target="_blank">Imagens, preços e detalhes na Shopee</a>` : ''}
+            ${links.amazon ? `<a class="botao amazon" href="${links.amazon}" target="_blank">Imagens, preços e detalhes na Amazon</a>` : ''}
+            ${links.mercado ? `<a class="botao mercado" href="${links.mercado}" target="_blank">Imagens, preços e detalhes no Mercado Livre</a>` : ''}
         `;
         container.appendChild(card);
     });
