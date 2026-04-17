@@ -171,5 +171,16 @@
   "links": {
     "shopee": "https://s.shopee.com.br/3qJFEH9yc9?share_channel_code=1"
   }
+},
+{
+  "id": "0016",
+  "categoria": "Cuidados com a Casa",
+  "nome": "Alvejante sem Cloro Tira Manchas - 1kg",
+  "descricao": "Alvejante tira manchas potente e seguro para roupas brancas e coloridas. Fórmula sem cloro que preserva as fibras dos tecidos enquanto remove as manchas mais difíceis.",
+  "imagem": "imagens/0016_tiramanchas_semcloro.jpg",
+  "keywords": ["limpeza", "alvejante", "tira manchas", "roupas", "sem cloro", "lavanderia", "casa", "branco", "colorido", "1kg"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/5q4JbYGrS3?share_channel_code=1"
+  }
 }
 ]
