@@ -72,5 +72,93 @@
   "links": {
     "shopee": "https://s.shopee.com.br/8KlbkjeYZb?share_channel_code=1"
   }
+},
+{
+  "id": "0007",
+  "categoria": "Cuidados com a Casa",
+  "nome": "Escova Removedor de Pelos Multifuncional DT9461",
+  "descricao": "Escova removedora de pelos de cães e gatos, ideal para limpeza de roupas e estofados com sistema de remoção de pó eficiente.",
+  "imagem": "imagens/0007_banner_shopee.jpg",
+  "keywords": ["limpeza", "pelos", "pet", "cachorro", "gato", "escova", "roupas", "estofados", "multifuncional", "casa", "praticidade"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/16Umj7jvA?share_channel_code=1"
+  }
+},
+{
+  "id": "0008",
+  "categoria": "Cuidados com a Casa",
+  "nome": "Kit Pano Reutilizável Multiuso Scott Duramax - 3 Rolos",
+  "descricao": "Kit com 3 rolos de panos reutilizáveis Scott Duramax, totalizando 174 panos. Laváveis e ultra resistentes, ideais para limpeza pesada ou delicada em toda a casa.",
+  "imagem": "imagens/0008_banner_shopee.jpg",
+  "keywords": ["limpeza", "pano", "reutilizável", "scott", "duramax", "rolo", "cozinha", "casa", "lavável", "praticidade", "multiuso"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/9ztinkTgZg?share_channel_code=1"
+  }
+},
+{
+  "id": "0009",
+  "categoria": "Cozinha",
+  "nome": "Tábua de Corte em Aço Inoxidável 316 - 49x60cm",
+  "descricao": "Tábua de cozinha em aço inox 316 de alta qualidade. Antibacteriana, à prova de mofo e fácil de higienizar, com dimensões amplas para facilitar o preparo de alimentos.",
+  "imagem": "imagens/0009_banner_shopee.jpg",
+  "keywords": ["cozinha", "tábua de corte", "aço inox", "316", "antibacteriana", "higiene", "preparo", "alimentos", "durável", "luxo"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/8KlPpk2Rek?share_channel_code=1"
+  }
+},
+{
+  "id": "0010",
+  "categoria": "Culinária & Temperos",
+  "nome": "Sal Marinho Integral De Mossoró BR Spices - Fino 1KG",
+  "descricao": "Sal marinho integral fino colhido em Mossoró. Preserva os minerais naturais, sendo uma opção mais saudável e saborosa para o tempero diário de diversas receitas.",
+  "imagem": "imagens/0010_banner_shopee.jpg",
+  "keywords": ["sal marinho", "integral", "mossoró", "br spices", "tempero", "cozinha", "culinária", "saudável", "fino", "natural", "1kg"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/7VCCUkdxB8?share_channel_code=1"
+  }
+},
+{
+  "id": "0011",
+  "categoria": "Cozinha",
+  "nome": "Descascador Elétrico para Uvas, Frutas e Alho",
+  "descricao": "Descascador elétrico multifuncional projetado para remover peles delicadas de uvas, tomates, alho e outras frutas de forma rápida e precisa.",
+  "imagem": "imagens/0011_banner_shopee.jpg",
+  "keywords": ["descascador", "elétrico", "uva", "alho", "frutas", "tomate", "cozinha", "praticidade", "utensílio", "moderno"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/qfAwtsRpA?share_channel_code=1"
+  }
+},
+{
+  "id": "0012",
+  "categoria": "Cozinha",
+  "nome": "Copo Térmico Inox ROMANTIC CROWN - 600ml/1.2L",
+  "descricao": "Copo térmico em aço inoxidável com tampa hermética e canudo antivazamento. Mantém a temperatura da sua bebida por muito mais tempo com design moderno e resistente.",
+  "imagem": "imagens/0012_banner_shopee.jpg",
+  "keywords": ["copo térmico", "inox", "romantic crown", "600ml", "1.2L", "tampa hermética", "canudo", "antivazamento", "bebida", "conservação térmica"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/8KlAaoBAnf?share_channel_code=1"
+  }
+},
+{
+  "id": "0013",
+  "categoria": "Cozinha",
+  "nome": "Kit 10 Marmitas 800ml com Travas Herméticas",
+  "descricao": "Conjunto de 10 potes reutilizáveis de 800ml com travas herméticas. Transparentes e livres de BPA, garantem o armazenamento seguro e a conservação prolongada dos alimentos.",
+  "imagem": "imagens/0013_banner_shopee.jpg",
+  "keywords": ["marmita", "pote", "hermético", "reutilizável", "800ml", "bpa free", "organização", "cozinha", "alimentos", "kit", "armazenamento"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/2BAXRjzcCK?share_channel_code=1"
+  }
+},
+{
+  "id": "0014",
+  "categoria": "Cuidados com a Casa",
+  "nome": "Kit 10 Panos de Limpeza Microfibra - Alta Absorção",
+  "descricao": "Conjunto de 10 panos de microfibra multiuso com alta capacidade de absorção. Ideais para limpeza de superfícies delicadas, vidros e móveis sem soltar fiapos ou riscar.",
+  "imagem": "imagens/0014_banner_shopee.jpg",
+  "keywords": ["limpeza", "microfibra", "multiuso", "alta absorção", "casa", "panos", "kit", "praticidade", "vidros", "móveis"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/4frtZKlHXS?share_channel_code=1"
+  }
 }
 ]
