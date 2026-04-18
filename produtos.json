@@ -96,17 +96,6 @@
   }
 },
 {
-  "id": "0009",
-  "categoria": "Cozinha",
-  "nome": "Tábua de Corte em Aço Inoxidável 316 - 49x60cm",
-  "descricao": "Tábua de cozinha em aço inox 316 de alta qualidade. Antibacteriana, à prova de mofo e fácil de higienizar, com dimensões amplas para facilitar o preparo de alimentos.",
-  "imagem": "imagens/0009_tabua_corte_aco_inox.jpg",
-  "keywords": ["cozinha", "tábua de corte", "aço inox", "316", "antibacteriana", "higiene", "preparo", "alimentos", "durável", "luxo"],
-  "links": {
-    "shopee": "https://s.shopee.com.br/8KlPpk2Rek?share_channel_code=1"
-  }
-},
-{
   "id": "0010",
   "categoria": "Culinária & Temperos",
   "nome": "Sal Marinho Integral De Mossoró BR Spices - Fino 1KG",
@@ -147,7 +136,7 @@
   "imagem": "imagens/0013_kit_marmitas_800ml.jpg",
   "keywords": ["marmita", "pote", "hermético", "reutilizável", "800ml", "bpa free", "organização", "cozinha", "alimentos", "kit", "armazenamento"],
   "links": {
-    "shopee": "https://s.shopee.com.br/2BAXRjzcCK?share_channel_code=1"
+    "shopee": "https://s.shopee.com.br/2Vnt1CWtBG?share_channel_code=1"
   }
 },
 {
@@ -180,7 +169,20 @@
   "imagem": "imagens/0016_tiramanchas_semcloro.jpg",
   "keywords": ["limpeza", "alvejante", "tira manchas", "roupas", "sem cloro", "lavanderia", "casa", "branco", "colorido", "1kg"],
   "links": {
-    "shopee": "https://s.shopee.com.br/5q4JbYGrS3?share_channel_code=1"
+    "shopee": " https://s.shopee.com.br/2VnsxcLEbh?share_channel_code=1"
+  }
+},
+{
+  "id": "P002",
+  "categoria": "Cozinha",
+  "nome": "Tábua de Corte Profissional Inox 304",
+  "descricao": "Tábua de alta durabilidade em aço inoxidável 304. Antimofo, antibacteriana e fácil de limpar. Ideal para manter a higiene máxima no preparo de alimentos.",
+  "imagem": "imagens/P002_tabua_inox.jpg",
+  "keywords": ["tábua", "inox", "cozinha", "corte", "antibacteriana"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/60NlBMzQHu?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
   }
 }
 ]
