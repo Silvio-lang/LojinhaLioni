@@ -15,7 +15,7 @@
 {
     "id": "0002",
     "categoria": "Cozinha & Servir",
-    "nome": "Conjunto de Taças de Vidro para Sobremesa",
+    "nome": "Conjunto de 6 Taças de Vidro para Sobremesa",
     "descricao": "Dê um toque de elegância às suas recepções! Este conjunto de taças em vidro trabalhado é ideal para servir mousses, pavês ou aquele gelado especial. Um item clássico que valoriza a apresentação da mesa e encanta os convidados.",
     "keywords": ["sobremesa", "taças", "vidro", "cozinha", "servir", "receber bem"],
     "imagem": "imagens/0002_tacas_sobremesa_vidro.jpg",
@@ -181,6 +181,32 @@
   "keywords": ["tábua", "inox", "cozinha", "corte", "antibacteriana"],
   "links": {
     "shopee": "https://s.shopee.com.br/60NlBMzQHu?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
+  "id": "P003",
+  "categoria": "Eletrônicos",
+  "nome": "Fire TV Stick HD (Alexa)",
+  "descricao": "Geração mais recente com controle remoto por voz com Alexa. Inclui comandos de TV, controles de casa inteligente e streaming em HD.",
+  "imagem": "imagens/P003_fire_tv_stick.jpg",
+  "keywords": ["fire tv", "alexa", "streaming", "amazon", "hdmi", "smart tv"],
+  "links": {
+    "shopee": "https://meli.la/1itEgwm",
+    "mercado": "https://s.shopee.com.br/1VvMKkXlRu?share_channel_code=1",
+    "amazon": "https://amzn.to/4euks8X"
+  }
+},
+{
+  "id": "P004",
+  "categoria": "Automação",
+  "nome": "Interruptor Sem Fio Relé 30A RF 433Mhz",
+  "descricao": "Sistema de relé de alta potência (30A) para controle remoto de aquecedores, lâmpadas e motores. Bivolt (110V-220V) com transmissor RF 433Mhz incluso.",
+  "imagem": "imagens/P004_rele_30A_rf433.jpg",
+  "keywords": ["relé", "automação", "interruptor sem fio", "rf 433mhz", "aquecedor", "30A"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/16YaWkNgy?share_channel_code=1",
     "mercado": "",
     "amazon": ""
   }
