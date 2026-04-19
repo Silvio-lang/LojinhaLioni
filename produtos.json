@@ -33,6 +33,19 @@
   }
 },
 {
+  "id": "P003",
+  "categoria": "Eletrônicos",
+  "nome": "Fire TV Stick HD (Alexa)",
+  "descricao": "Geração mais recente com controle remoto por voz com Alexa. Inclui comandos de TV, controles de casa inteligente e streaming em HD.",
+  "imagem": "imagens/P003_fire_tv_stick.jpg",
+  "keywords": ["fire tv", "alexa", "streaming", "amazon", "hdmi", "smart tv"],
+  "links": {
+    "shopee": "https://meli.la/1itEgwm",
+    "mercado": "https://s.shopee.com.br/1VvMKkXlRu?share_channel_code=1",
+    "amazon": "https://amzn.to/4euks8X"
+  }
+},
+{
     "id": "0002",
     "categoria": "Cozinha & Servir",
     "nome": "Conjunto de 6 Taças de Vidro para Sobremesa",
@@ -183,19 +196,6 @@
     "shopee": "https://s.shopee.com.br/60NlBMzQHu?share_channel_code=1",
     "mercado": "",
     "amazon": ""
-  }
-},
-{
-  "id": "P003",
-  "categoria": "Eletrônicos",
-  "nome": "Fire TV Stick HD (Alexa)",
-  "descricao": "Geração mais recente com controle remoto por voz com Alexa. Inclui comandos de TV, controles de casa inteligente e streaming em HD.",
-  "imagem": "imagens/P003_fire_tv_stick.jpg",
-  "keywords": ["fire tv", "alexa", "streaming", "amazon", "hdmi", "smart tv"],
-  "links": {
-    "shopee": "https://meli.la/1itEgwm",
-    "mercado": "https://s.shopee.com.br/1VvMKkXlRu?share_channel_code=1",
-    "amazon": "https://amzn.to/4euks8X"
   }
 },
 {
