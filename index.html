@@ -4,6 +4,15 @@
     <meta charset="UTF-8">
     <link rel="manifest" href="manifest.json">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VN7RWRVNFX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-VN7RWRVNFX');
+</script>
+
     <title>Achados da Lioni</title>
     
     <style>
@@ -203,15 +212,15 @@ function renderizarProdutos(lista) {
         `;
 
         if (produto.links.shopee) {
-            cardHTML += `<a href="${produto.links.shopee}" class="btn-link shopee" target="_blank">Ver SHOPEE</a>`;
+            cardHTML += `<a href="${produto.links.shopee}" class="btn-link shopee" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Shopee', 'produto': '${produto.nome}'});">Ver SHOPEE</a>`;
         }
 
         if (produto.links.mercado) {
-            cardHTML += `<a href="${produto.links.mercado}" class="btn-link mercado" target="_blank">Ver M. LIVRE</a>`;
+            cardHTML += `<a href="${produto.links.mercado}" class="btn-link mercado" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Mercado Livre', 'produto': '${produto.nome}'});">Ver M. LIVRE</a>`;
         }
 
         if (produto.links.amazon) {
-            cardHTML += `<a href="${produto.links.amazon}" class="btn-link amazon" target="_blank">Ver AMAZON</a>`;
+            cardHTML += `<a href="${produto.links.amazon}" class="btn-link amazon" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Amazon', 'produto': '${produto.nome}'});">Ver AMAZON</a>`;
         }
 
         cardHTML += `
