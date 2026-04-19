@@ -1,15 +1,24 @@
 [
 {
-  "id": "0001",
-  "categoria": "Vestuário & Conforto",
-  "nome": "Conjunto Térmico Flanelado Plus Size - Calça e Blusa",
-  "descricao": "O aliado perfeito para os dias frios em Florianópolis! Este conjunto flanelado une o máximo de conforto com um ajuste impecável no tamanho Plus Size. Ideal para usar por baixo da roupa ou para relaxar em casa com muito aconchego.",
-  "keywords": ["inverno", "roupa térmica", "plus size", "conforto", "flanelado", "frio"],
-  "imagem": "imagens/0001_conjunto_termico_plus.jpg",
+  "id": "0008",
+  "categoria": "Cuidados com a Casa",
+  "nome": "Kit Pano Reutilizável Multiuso Scott Duramax - 3 Rolos",
+  "descricao": "Kit com 3 rolos de panos reutilizáveis Scott Duramax, totalizando 174 panos. Laváveis e ultra resistentes, ideais para limpeza pesada ou delicada em toda a casa.",
+  "imagem": "imagens/0008_kit_pano_reuso.jpg",
+  "keywords": ["limpeza", "pano", "reutilizável", "scott", "duramax", "rolo", "cozinha", "casa", "lavável", "praticidade", "multiuso"],
   "links": {
-    "amazon": "",
-    "mercado": "",
-    "shopee": "https://s.shopee.com.br/LjJeYzc07?share_channel_code=1"
+    "shopee": "https://s.shopee.com.br/9ztinkTgZg?share_channel_code=1"
+  }
+},
+{
+  "id": "0013",
+  "categoria": "Cozinha",
+  "nome": "Kit 10 Marmitas 800ml com Travas Herméticas",
+  "descricao": "Conjunto de 10 potes reutilizáveis de 800ml com travas herméticas. Transparentes e livres de BPA, garantem o armazenamento seguro e a conservação prolongada dos alimentos.",
+  "imagem": "imagens/0013_kit_marmitas_800ml.jpg",
+  "keywords": ["marmita", "pote", "hermético", "reutilizável", "800ml", "bpa free", "organização", "cozinha", "alimentos", "kit", "armazenamento"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/2Vnt1CWtBG?share_channel_code=1"
   }
 },
 {
@@ -63,6 +72,19 @@
   }
 },
 {
+  "id": "0001",
+  "categoria": "Vestuário & Conforto",
+  "nome": "Conjunto Térmico Flanelado Plus Size - Calça e Blusa",
+  "descricao": "O aliado perfeito para os dias frios em Florianópolis! Este conjunto flanelado une o máximo de conforto com um ajuste impecável no tamanho Plus Size. Ideal para usar por baixo da roupa ou para relaxar em casa com muito aconchego.",
+  "keywords": ["inverno", "roupa térmica", "plus size", "conforto", "flanelado", "frio"],
+  "imagem": "imagens/0001_conjunto_termico_plus.jpg",
+  "links": {
+    "amazon": "",
+    "mercado": "",
+    "shopee": "https://s.shopee.com.br/LjJeYzc07?share_channel_code=1"
+  }
+},
+{
   "id": "0006",
   "categoria": "Moda & Inverno",
   "nome": "Conjunto Segunda Pele Térmica - Proteção UV50+",
@@ -82,17 +104,6 @@
   "keywords": ["limpeza", "pelos", "pet", "cachorro", "gato", "escova", "roupas", "estofados", "multifuncional", "casa", "praticidade"],
   "links": {
     "shopee": "https://s.shopee.com.br/16Umj7jvA?share_channel_code=1"
-  }
-},
-{
-  "id": "0008",
-  "categoria": "Cuidados com a Casa",
-  "nome": "Kit Pano Reutilizável Multiuso Scott Duramax - 3 Rolos",
-  "descricao": "Kit com 3 rolos de panos reutilizáveis Scott Duramax, totalizando 174 panos. Laváveis e ultra resistentes, ideais para limpeza pesada ou delicada em toda a casa.",
-  "imagem": "imagens/0008_kit_pano_reuso.jpg",
-  "keywords": ["limpeza", "pano", "reutilizável", "scott", "duramax", "rolo", "cozinha", "casa", "lavável", "praticidade", "multiuso"],
-  "links": {
-    "shopee": "https://s.shopee.com.br/9ztinkTgZg?share_channel_code=1"
   }
 },
 {
@@ -126,17 +137,6 @@
   "keywords": ["copo térmico", "inox", "romantic crown", "600ml", "1.2L", "tampa hermética", "canudo", "antivazamento", "bebida", "conservação térmica"],
   "links": {
     "shopee": "https://s.shopee.com.br/8KlAaoBAnf?share_channel_code=1"
-  }
-},
-{
-  "id": "0013",
-  "categoria": "Cozinha",
-  "nome": "Kit 10 Marmitas 800ml com Travas Herméticas",
-  "descricao": "Conjunto de 10 potes reutilizáveis de 800ml com travas herméticas. Transparentes e livres de BPA, garantem o armazenamento seguro e a conservação prolongada dos alimentos.",
-  "imagem": "imagens/0013_kit_marmitas_800ml.jpg",
-  "keywords": ["marmita", "pote", "hermético", "reutilizável", "800ml", "bpa free", "organização", "cozinha", "alimentos", "kit", "armazenamento"],
-  "links": {
-    "shopee": "https://s.shopee.com.br/2Vnt1CWtBG?share_channel_code=1"
   }
 },
 {
