@@ -204,9 +204,22 @@
   "nome": "Interruptor Sem Fio Relé 30A RF 433Mhz",
   "descricao": "Sistema de relé de alta potência (30A) para controle remoto de aquecedores, lâmpadas e motores. Bivolt (110V-220V) com transmissor RF 433Mhz incluso.",
   "imagem": "imagens/P004_rele_30A_rf433.jpg",
-  "keywords": ["relé", "automação", "interruptor sem fio", "rf 433mhz", "aquecedor", "30A","controle remoto"],
+  "keywords": ["relé", "automação", "interruptor sem fio", "rf 433mhz", "aquecedor", "controle remoto"],
   "links": {
     "shopee": "https://s.shopee.com.br/16YaWkNgy?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
+  "id": "P005",
+  "categoria": "Casa",
+  "nome": "Secador de Roupa Elétrico Portátil 600W",
+  "descricao": "Secagem rápida com tecnologia de aquecimento avançada e painel digital Touch Screen. Dobrável, portátil e bivolt (verificar voltagem). Ideal para pequenos espaços e viagens.",
+  "imagem": "imagens/P005_secador_roupa_portatil.jpg",
+  "keywords": ["secador", "roupa", "elétrico", "portátil", "lavanderia", "bivolt", "secadora"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/8fOXqwMZz0?share_channel_code=1",
     "mercado": "",
     "amazon": ""
   }
