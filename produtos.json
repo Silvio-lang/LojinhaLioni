@@ -1,5 +1,44 @@
 [
 {
+  "id": "P006",
+  "nome": "Lava Louças Portátil Praxis",
+  "descricao": "A solução ideal para sua cozinha: Lava Louças Praxis com sistema semiautomático. Compacta e eficiente, ela otimiza seu tempo e espaço, garantindo uma limpeza profunda com praticidade. Ideal para apartamentos e cozinhas modernas.",
+  "imagem": "imagens/P006_lava_loucas_praxis.jpg",
+  "keywords": [
+    "lava louças",
+    "praxis",
+    "portátil",
+    "cozinha",
+    "eletrodoméstico",
+    "semiautomática"
+  ],
+  "links": {
+    "shopee": "https://s.shopee.com.br/9UxiGXM8Kw?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
+  "id": "P007",
+  "nome": "Limpador a Vapor Portátil Alta Pressão",
+  "descricao": "Potencialize sua limpeza com este limpador a vapor de alta pressão com 3 níveis de ajuste. Versátil e potente, é ideal para higienizar profundamente casa, cozinha e até automóveis. Disponível em 110V e 220V, garantindo praticidade e eficiência na remoção de sujeiras difíceis.",
+  "imagem": "imagens/P007_limpador_vapor_portatil.jpg",
+  "keywords": [
+    "limpador a vapor",
+    "vaporeto",
+    "alta pressão",
+    "higienização",
+    "limpeza automotiva",
+    "limpeza casa",
+    "portátil"
+  ],
+  "links": {
+    "shopee": "https://s.shopee.com.br/16cx6mgxE?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
   "id": "0008",
   "categoria": "Cuidados com a Casa",
   "nome": "Kit Pano Reutilizável Multiuso Scott Duramax - 3 Rolos",
