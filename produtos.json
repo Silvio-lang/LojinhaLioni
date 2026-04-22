@@ -14,7 +14,7 @@
     "prateleira"
   ],
   "links": {
-    "shopee": "https://s.shopee.com.br/8ASM7Uooy6?share_channel_code=1",
+    "shopee": " https://s.shopee.com.br/8ASM7Uooy6?share_channel_code=1",
     "mercado": "",
     "amazon": ""
   }
@@ -107,6 +107,19 @@
   "keywords": ["limpeza", "pano", "reutilizável", "scott", "duramax", "rolo", "cozinha", "casa", "lavável", "praticidade", "multiuso"],
   "links": {
     "shopee": "https://s.shopee.com.br/2qQmo3JZ7L?share_channel_code=1"
+  }
+},
+{
+  "id": "P005",
+  "categoria": "Casa",
+  "nome": "Secador de Roupa Elétrico Portátil 600W",
+  "descricao": "Secagem rápida com tecnologia de aquecimento avançada e painel digital Touch Screen. Dobrável, portátil e bivolt (verificar voltagem). Ideal para pequenos espaços e viagens.",
+  "imagem": "imagens/P005_secador_roupa_portatil.jpg",
+  "keywords": ["secador", "roupa", "elétrico", "portátil", "lavanderia", "bivolt", "secadora"],
+  "links": {
+    "shopee": "https://s.shopee.com.br/8fOXqwMZz0?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
   }
 },
 {
@@ -306,19 +319,6 @@
   "keywords": ["relé", "automação", "interruptor sem fio", "rf 433mhz", "aquecedor", "controle remoto"],
   "links": {
     "shopee": "https://s.shopee.com.br/16YaWkNgy?share_channel_code=1",
-    "mercado": "",
-    "amazon": ""
-  }
-},
-{
-  "id": "P005",
-  "categoria": "Casa",
-  "nome": "Secador de Roupa Elétrico Portátil 600W",
-  "descricao": "Secagem rápida com tecnologia de aquecimento avançada e painel digital Touch Screen. Dobrável, portátil e bivolt (verificar voltagem). Ideal para pequenos espaços e viagens.",
-  "imagem": "imagens/P005_secador_roupa_portatil.jpg",
-  "keywords": ["secador", "roupa", "elétrico", "portátil", "lavanderia", "bivolt", "secadora"],
-  "links": {
-    "shopee": "https://s.shopee.com.br/8fOXqwMZz0?share_channel_code=1",
     "mercado": "",
     "amazon": ""
   }
