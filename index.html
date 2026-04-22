@@ -13,6 +13,15 @@
   gtag('config', 'G-VN7RWRVNFX');
 </script>
 
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://silvioaurich.github.io/LojinhaLioni/">
+<meta property="og:title" content="Lojinha da Lioni - Achados úteis para sua casa">
+<meta property="og:description" content="Selecionamos produtos práticos da Amazon, Shopee e Mercado Livre que facilitam o dia a dia.">
+<meta property="og:image" content="https://silvioaurich.github.io/LojinhaLioni/imagens/foto-lojinha.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#FF5722">
+
     <title>Achados da Lioni</title>
     
     <style>
@@ -212,15 +221,15 @@ function renderizarProdutos(lista) {
         `;
 
         if (produto.links.shopee) {
-            cardHTML += `<a href="${produto.links.shopee}" class="btn-link shopee" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Shopee', 'produto': '${produto.nome}'});">Ver SHOPEE</a>`;
+            cardHTML += `<a href="${produto.links.shopee}" class="btn-link shopee" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Shopee', 'produto': '${produto.nome}'});">Ver na SHOPEE</a>`;
         }
 
         if (produto.links.mercado) {
-            cardHTML += `<a href="${produto.links.mercado}" class="btn-link mercado" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Mercado Livre', 'produto': '${produto.nome}'});">Ver M. LIVRE</a>`;
+            cardHTML += `<a href="${produto.links.mercado}" class="btn-link mercado" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Mercado Livre', 'produto': '${produto.nome}'});">Ver no M. LIVRE</a>`;
         }
 
         if (produto.links.amazon) {
-            cardHTML += `<a href="${produto.links.amazon}" class="btn-link amazon" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Amazon', 'produto': '${produto.nome}'});">Ver AMAZON</a>`;
+            cardHTML += `<a href="${produto.links.amazon}" class="btn-link amazon" target="_blank" onclick="gtag('event', 'clique_produto', {'loja': 'Amazon', 'produto': '${produto.nome}'});">Ver na AMAZON</a>`;
         }
 
         cardHTML += `
