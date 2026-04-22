@@ -1,5 +1,45 @@
 [
 {
+  "id": "P009",
+  "nome": "Kit Dispenser para Lavanderia",
+  "descricao": "Organize sua área de serviço com elegância e praticidade. Estes dispensers para lavanderia estão disponíveis em capacidades de 1,5L e 2,3L, sendo perfeitos para armazenar amaciante, sabão em pó, sabão líquido ou tira manchas. Um toque de sofisticação que facilita o dia a dia na limpeza.",
+  "imagem": "imagens/P009_dispenser_lavanderia.jpg",
+  "keywords": [
+    "dispenser",
+    "lavanderia",
+    "organização",
+    "área de serviço",
+    "sabão em pó",
+    "amaciante",
+    "sabão líquido"
+  ],
+  "links": {
+    "shopee": "https://s.shopee.com.br/W2us3dLhO?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
+  "id": "P008",
+  "nome": "Bendita Cânfora Tablete - Pote 30 unidades",
+  "descricao": "Praticidade e bem-estar com os tabletes de Bendita Cânfora. Este pote contém 30 unidades de 0,75g cada, ideais para uso em massagens, alívio de tensões musculares ou para perfumar ambientes. Um produto tradicional com a qualidade que você conhece.",
+  "imagem": "imagens/P008_bendita_canfora_pote.jpg",
+  "keywords": [
+    "cânfora",
+    "bendita cânfora",
+    "tablete",
+    "bem-estar",
+    "massagem",
+    "alívio",
+    "pote"
+  ],
+  "links": {
+    "shopee": "https://s.shopee.com.br/4qBu1zNjG2?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
   "id": "P006",
   "nome": "Lava Louças Portátil Praxis",
   "descricao": "A solução ideal para sua cozinha: Lava Louças Praxis com sistema semiautomático. Compacta e eficiente, ela otimiza seu tempo e espaço, garantindo uma limpeza profunda com praticidade. Ideal para apartamentos e cozinhas modernas.",
