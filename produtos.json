@@ -1,5 +1,65 @@
 [
 {
+  "id": "P013",
+  "nome": "Sapateira Multiuso 3 Andares Basculante",
+  "descricao": "Otimize o espaço do seu hall de entrada, sala ou quarto com esta sapateira organizadora de 3 andares. Com sistema basculante e capacidade para até 20 pares, ela oferece um design moderno e funcional, mantendo seus calçados sempre organizados e acessíveis com total elegância.",
+  "imagem": "imagens/P013_sapateira_multiuso_basculante.jpg",
+  "keywords": [
+    "sapateira",
+    "organizador de sapatos",
+    "sapateira basculante",
+    "hall de entrada",
+    "organização",
+    "móvel multiuso",
+    "quarto"
+  ],
+  "links": {
+    "shopee": "https://s.shopee.com.br/6VK8mGE9dX?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
+  "id": "P012",
+  "nome": "Mini Folhas de Sabão Portáteis - 50 Unid.",
+  "descricao": "Praticidade absoluta para sua higiene em qualquer lugar. Este kit contém 50 mini folhas de sabão biodegradáveis e portáteis, ideais para levar em viagens, acampamentos ou no dia a dia. Basta uma folha e um pouco de água para garantir a limpeza completa das mãos com suavidade e um toque delicado.",
+  "imagem": "imagens/P012_folha_sabao_portatil.jpg",
+  "keywords": [
+    "sabão portátil",
+    "folha de sabão",
+    "viagem",
+    "higiene",
+    "mini sabão",
+    "acampamento",
+    "limpeza das mãos"
+  ],
+  "links": {
+    "shopee": "https://s.shopee.com.br/gMLpS6LUN?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
+  "id": "P011",
+  "nome": "Botão Magnético para Cortina - Kit com Pares",
+  "descricao": "Mantenha suas cortinas perfeitamente fechadas com este sistema de botões magnéticos. Sem necessidade de costuras ou furos, os clipes são destacáveis e fáceis de instalar, garantindo privacidade total e um ajuste impecável na vedação da luz. Ideal para janelas de salas e quartos.",
+  "imagem": "imagens/P011_botao_magnetico_cortina.jpg",
+  "keywords": [
+    "botão magnético",
+    "cortina",
+    "fivela magnética",
+    "fechamento cortina",
+    "acessório janela",
+    "clipe magnético",
+    "sem costura"
+  ],
+  "links": {
+    "shopee": "https://s.shopee.com.br/1Lc2bqYqk0?share_channel_code=1",
+    "mercado": "",
+    "amazon": ""
+  }
+},
+{
   "id": "P010",
   "nome": "Suporte de Banheiro Luxo Adesivo Preto",
   "descricao": "Adicione sofisticação e organização ao seu banho com este suporte de luxo na cor preta. Com fixação por adesivo de alta resistência, dispensa furos na parede, sendo ideal para organizar shampoos e sabonetes dentro do box com praticidade e um design moderno.",
